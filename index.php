@@ -1,6 +1,6 @@
 <?php
 //Tetapkan kunci server Anda (Catatan: Kunci server untuk mode sandbox dan mode produksi berbeda)
-$server_key = 'SB-Mid-client-6PeQ3oc6RNN2dh69';
+$server_key = 'SB-Mid-server-NdP5mA1Q0-E-yizbk_T-MoWF';
 
 // Set true untuk produksi, set false untuk sandbox
 $is_production = false;
